@@ -21,13 +21,7 @@ Summary statistics for the month of June and December are shown below:
 ## Results
 Overall, the analysis of central tendency and spread show similar temperature observations for the month of June and December. For example, results show that average temperature is 75F and 71F for the month of June and December, respectively. The min temperarure observed is 64F and 60F for the month of June and December, respectively. The max temperature observed is 81F and 78F for the month of June and December, respectively. 
 
-## Future Analysis
-Analysis of the weather data set based on the summary statistics indicate that temperature observations for the month of June and December are very similar. Summary statistics, however, depicts the central tendency and spread of a data set. Because the current weather data set is a contineous data set, I would recommend to use a histogram in order to display the frequency distribution of temperature observations. In addition, I would query other weather parameters, such as precipitations and wind speed. It may be possible that temperature per se will not osculate much, however, rain and wind changes can affect the ideal surfing conditions and the ice cream business.
+## Summary and Future Analysis
+Analysis of the weather data set based on the summary statistics indicate that temperature observations for the month of June and December are very similar. Summary statistics, however, depicts the central tendency and spread of a data set. Because the current weather data set is a contineous data set, I would recommend to use a histogram in order to display the frequency distribution of temperature observations. In addition, I would inquire about other weather parameters, such as precipitations and wind speed. It may be possible that temperature does not oscillate much at the island while rain and wind do; consequenlty affecting the ideal surfing conditions and the ice cream business.
 
-For the sake of example, 
-
-There needs to be enough rain to keep everything green, but not so much that you lose out on that ideal surfing and ice cream weather.
-
-
-## Summary
-Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
+For the sake of example, I am providing below a histogram of temperature observations for the month of June and December. 
