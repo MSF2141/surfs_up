@@ -12,7 +12,7 @@ Analyzing a weather data set for the island of Oahu, Hawaii in order to understa
 - SQLAlchemy and SQLite Database
 
 ## Analysis
-The code to query the SQLite database can be found here: [SurfsUp_Challenge](https://github.com/MSF2141/surfs_up/blob/57d6433a479e5c4293fef094ede3de805ea0ce68/SurfsUp_Challenge.ipynb).
+The code to query the SQLite database can be found here: [SurfsUp_Challenge](https://github.com/MSF2141/surfs_up/blob/09bd8e1c0dc15ade67407672353d7e724f4eccb0/SurfsUp_Challenge.ipynb).
 
 Summary statistics for the month of June and December are shown below:
 
