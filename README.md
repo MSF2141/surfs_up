@@ -1,20 +1,19 @@
-# Querying Weather Data Sets from an SQLite Database
+# Weather Data and SQLite Database
 
 ## Project Overview
-Analyzing weather data set for the island of Oahu in order to advice whether a surf and ice cream shop business would be sustainable year-round. Specifically, with the use of 
-
-•	Use SQLAlchemy to connect to and query a SQLite database.
-W. Avy likes your analysis, but he wants more information about temperature trends before opening the surf shop. Specifically, he wants temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round.
+Analyzing a weather data set for the island of Oahu, Hawaii in order to understand whether a surf and ice cream shop business would be sustainable year-round. Specifically, with the use of SQLAlchemy, the objective is to connect to the SQLite database and query the temperature data for the months of June and December.
 
 ## Objectives
 - Deliverable 1: Determine the Summary Statistics for June
 - Deliverable 2: Determine the Summary Statistics for December
 
 ## Softwares
-- Python, Pandas in Kupyter Notebook
+- Python, Pandas in Jupyter Notebook 6.4.12
 - SQLAlchemy and SQLite Database
 
 ## Analysis
+
+
 •	Use SQLAlchemy to connect to and query a SQLite database.
 •	Use statistics like minimum, maximum, and average to analyze data.
 
