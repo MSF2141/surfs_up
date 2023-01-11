@@ -26,3 +26,5 @@ Analysis of the weather data set based on the summary statistics indicate that t
 
 For the sake of example, I am providing below a histogram of temperature observations for the month of June and December. 
 ![June%20temps](https://github.com/MSF2141/surfs_up/blob/003b03c034175d6f9ee8fc8107d2e17c96106770/June%20temps_histogram.png) ![December%20temps_histogram](https://github.com/MSF2141/surfs_up/blob/95044b0ba0fc9f1abaeb03d7f422482e1bc539eb/December%20temps_histogram.png)
+
+![June%20prcp_histogram](https://github.com/MSF2141/surfs_up/blob/50162dc2b3f15fedd9c91f511c3c73add02c8d77/June%20prcp_histogram.png) 
